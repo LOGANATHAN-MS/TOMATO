@@ -6,7 +6,6 @@
 ---
 
 ## Features
-- **Responsive Design**: The website adapts to different screen sizes.
 - **Custom Styling**: Themed with a tomato-inspired color palette and personalized hover effects.
 - **HTML and CSS Mastery**: Built entirely with HTML for structure and CSS for styling.
 
@@ -22,3 +21,7 @@
    - Writing responsive designs with flexbox.
 
 ---
+## Live Demo
+
+You can view the live version of the project here:  
+[Tomato Information Page](https://loganathan-ms.github.io/TOMATO/)
